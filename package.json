@@ -1,0 +1,17 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "memory-cache": "^0.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
